@@ -1,11 +1,13 @@
 position,person,personID,start,end
 President,Blaise Compaoré,Q57324,1987-10-15,2014-10-31
+President,Honoré Traoré,Q1627285,2014-10-31,2014-11-01
 President,Yacouba Isaac Zida,Q18402168,2014-11-01,2014-11-18
 President,Michel Kafando,Q16105972,2014-11-18,2015-09-17
 President,Chérif Sy,Q19628964,2015-09-17,2015-09-23
 President,Gilbert Diendéré,Q20978710,2015-09-17,2015-09-23
 President,Michel Kafando,Q16105972,2015-09-23,2015-12-29
 President,Roch Marc Christian Kaboré,Q599988,2015-12-29,2022-01-23
+President,Paul Henri Sandaogo Damiba,Q110666454,2022-01-24,
 Prime Minister,Kadré Désiré Ouedraogo,Q620581,1996-02-06,2000-11-06
 Prime Minister,Paramanga Ernest Yonli,Q434742,2000-11-06,2007-06-03
 Prime Minister,Tertius Zongo,Q354710,2007-06-11,2011-04-18
@@ -16,6 +18,7 @@ Prime Minister,Paul Kaba Thieba,Q22043905,2016-01-13,2019-01-21
 Prime Minister,Christophe Joseph Marie Dabiré,Q60813372,2019-01-24,2021-12-08
 Prime Minister,Lassina Zerbo,Q21062160,2021-12-11,2022-01-23
 Prime Minister,Albert Ouédraogo,Q111131079,2022-03-03,
+"Minister of Digital Transition, Posts and Electronic Communications",Aminata Zerbo-Sabané,Q113623274,2022-03-05,
 Minister of Finance,Rosine Sori-Coulibaly,Q21979800,2016-01-13,2019-01-24
 Minister of Finance,Lassané Kaboré,Q98846914,2019-01-24,
 Minister of Foreign Affairs,Youssouf Ouédraogo,Q58205,1999,2007
@@ -27,6 +30,10 @@ Minister of Foreign Affairs,Moussa Nébié,Q21066017,2015-07-20,2016-01-12
 Minister of Foreign Affairs,Alpha Barry,Q25115075,2016-01-12,2021-12-08
 Minister of Foreign Affairs,Rosine Sori-Coulibaly,Q21979800,2021-12-08,2022-01-23
 Minister of Foreign Affairs,Olivia Ragnaghnewendé Rouamba,Q111184239,2022-03-05,
+Minister of Health,Alain Bédouma Yoda,Q1723580,2007-06-10,2008-09-03
+Minister of Health,Seydou Bouda,Q7459009,2008-09-03,2011
+Minister of Health,Léonie Claudine Lougué,Q97365430,2019-01-24,2021-01-10
+Minister of Health,Charlemagne Ouédraogo,Q106631627,2021-01-10,
 President of the National Assembly,Mélégué Maurice Traoré,Q3333014,1997,2002-06-06
 President of the National Assembly,Roch Marc Christian Kaboré,Q599988,2002-06-06,2012-12-28
 President of the National Assembly,Soungalo Ouattara,Q7565025,2012-12-28,2014-10
@@ -34,3 +41,5 @@ President of the National Assembly,Salif Diallo,Q16188989,2015-12-30,2017-08-19
 President of the National Assembly,Bénéwendé Stanislas Sankara,Q722327,2017-08-19,2017-09-08
 President of the National Assembly,Alassane Bala Sakandé,Q78185212,2017-09-08,
 Vice President of the National Assembly,Rose Marie Compaoré,Q88720923,2015-12-30,2020-03-18
+ambassador to France,Luc-Adolphe Tiao,Q57882,2008-09-15,2011-04-18
+ambassador,Céline Yoda,Q430907,2001,2007
