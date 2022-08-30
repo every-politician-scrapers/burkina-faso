@@ -1,6 +1,9 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q20995488,President of Burkina Faso,Q965,Q965,,,,,,,President of Burkina Faso
 Q28133105,Prime Minister of Burkina Faso,Q965,Q965,,Q1434747,,,,,
+Q113623389,"Minister of Digital Transition, Posts and Electronic Communications of Burkina Faso",Q965,Q965,,,,,,,
+Q112709348,Education minister of Burkina Faso,Q965,Q965,,,,,,,
 Q98846005,Minister of Finance of Burkina Faso,Q965,Q965,,,,,,,Minister of Finance (Burkina Faso)
 Q18204360,Minister of Foreign Affairs of Burkina Faso,Q965,Q965,,,,,,,Minister of Foreign Affairs (Burkina Faso)
+Q112030491,Health minister of Burkino Faso,Q965,,,,,,,,
 Q94701165,president of the National Assembly of Burkina Faso,Q965,Q965,,,,,,,
