@@ -152,6 +152,30 @@
               }
             ]
           },
+          "office1": {
+            "text": "Minister of National Defence and Veterans"
+          },
+          "term_start1": {
+            "text": "12 September 2022"
+          },
+          "primeminister1": {
+            "text": "Albert Ouédraogo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albert Ouédraogo"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Brig. Gen. Aimé Barthélemy Simporé",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aimé Barthélemy Simporé"
+              }
+            ]
+          },
           "birth_date": {
             "text": "January 1981"
           },
@@ -271,6 +295,17 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "13 September 2022",
+          "title": "Burkina Faso's military leader sacks defence minister amid jihadist attacks",
+          "language": "en",
+          "work": "France 24",
+          "url": "https://www.france24.com/en/africa/20220913-burkina-faso-s-military-leader-sacks-defence-minister-amid-continued-attacks",
+          "access-date": "13 September 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
         },
         {
           "date": "24 January 2022",
