@@ -1,10 +1,19 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q20995488,President of Burkina Faso,Q965,Q965,,,,,,,President of Burkina Faso
-Q28133105,Prime Minister of Burkina Faso,Q965,Q965,,Q1434747,,,,,
-Q113961433,Minister of National Defence of Bukina Faso,,Q965,,,,,,,
-Q113623389,"Minister of Digital Transition, Posts and Electronic Communications of Burkina Faso",Q965,Q965,,,,,,,
 Q112709348,Education minister of Burkina Faso,Q965,Q965,,,,,,,
+Q112030491,Health minister of Burkino Faso,Q965,,,,,,,,
+Q18339650,Member of the National Assembly of Burkina Faso,Q965,Q965,,,,,,,
+Q113623389,"Minister of Digital Transition, Posts and Electronic Communications of Burkina Faso",Q965,Q965,,,,,,,
 Q98846005,Minister of Finance of Burkina Faso,Q965,Q965,,,,,,,Minister of Finance (Burkina Faso)
 Q18204360,Minister of Foreign Affairs of Burkina Faso,Q965,Q965,,,,,,,Minister of Foreign Affairs (Burkina Faso)
-Q112030491,Health minister of Burkino Faso,Q965,,,,,,,,
+Q113961433,Minister of National Defence of Bukina Faso,,Q965,,,,,,,
+Q20995488,President of Burkina Faso,Q965,Q965,,,,,,,President of Burkina Faso
+Q28133105,Prime Minister of Burkina Faso,Q965,Q965,,Q1434747,,,,,
+Q38258039,ambassador of Burkina Faso,Q965,,,,,,,,
+Q43382443,ambassador of Burkina Faso in Senegal,Q965,,,,,,,,
+Q43382394,ambassador of Burkina Faso in South Africa,Q965,,,,,,,,
+Q38258079,ambassador of Burkina Faso to Austria,Q965,,,,,,,,
+Q40338039,ambassador of Burkina Faso to Canada,Q965,,,,,,,,
+Q40109340,ambassador of Burkina Faso to France,Q965,,,,,,,,
+Q30590111,ambassador of Burkina Faso to the United States,Q965,,,,,,,,List of ambassadors of Burkina Faso to the United States
 Q94701165,president of the National Assembly of Burkina Faso,Q965,Q965,,,,,,,
+Q94701265,vice president of the National Assembly of Burkina Faso,Q965,Q965,,,,,,,
