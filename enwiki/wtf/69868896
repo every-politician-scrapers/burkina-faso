@@ -7,10 +7,12 @@
     "People from Ouagadougou",
     "Heads of state of Burkina Faso",
     "Burkinabé military personnel",
-    "21st-century Burkinabé people",
-    "Conservatoire national des arts et métiers alumni",
     "Leaders who took power by coup",
-    "Jihadist insurgency in Burkina Faso"
+    "Leaders ousted by a coup",
+    "Jihadist insurgency in Burkina Faso",
+    "Conservatoire national des arts et métiers alumni",
+    "20th-century Burkinabé people",
+    "21st-century Burkinabé people"
   ],
   "sections": [
     {
@@ -20,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Paul-Henri Sandaogo Damiba (born January 1981 ) is a Burkinabé military officer who heads the Patriotic Movement for Safeguard and Restoration (MPSR), having overthrown President Roch Marc Christian Kaboré on 24January 2022 in the 2022 Burkina Faso coup d'état.",
+              "text": "Paul-Henri Sandaogo Damiba (born January 1981 ) is a Burkinabé military officer who served as interim president of Burkina Faso from 31 January 2022 to 30 September 2022, when he was removed in a coup d'état.",
               "links": [
                 {
                   "text": "Burkinabé",
@@ -29,16 +31,12 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Patriotic Movement for Safeguard and Restoration"
+                  "page": "Burkina Faso"
                 },
                 {
+                  "text": "coup d'état",
                   "type": "internal",
-                  "page": "Roch Marc Christian Kaboré"
-                },
-                {
-                  "text": "2022 Burkina Faso coup d'état",
-                  "type": "internal",
-                  "page": "2022 Burkina Faso coup d'état"
+                  "page": "September 2022 Burkina Faso coup d'état"
                 }
               ],
               "formatting": {
@@ -48,12 +46,16 @@
               }
             },
             {
-              "text": "On 31January, the military junta restored the constitution and appointed Damiba as interim president.",
+              "text": "Damiba himself had come to power just eight months earlier, on 24 January 2022, when he removed President Roch Marc Christian Kaboré in a coup.",
               "links": [
                 {
-                  "text": "interim president",
                   "type": "internal",
-                  "page": "List of heads of state of Burkina Faso"
+                  "page": "Roch Marc Christian Kaboré"
+                },
+                {
+                  "text": "coup",
+                  "type": "internal",
+                  "page": "January 2022 Burkina Faso coup d'état"
                 }
               ]
             }
@@ -61,6 +63,10 @@
         }
       ],
       "templates": [
+        {
+          "date": "September 2022",
+          "template": "currentperson"
+        },
         {
           "description": "Burkinabé military officer and president since 2022",
           "template": "short description"
@@ -84,12 +90,6 @@
         {
           "transcription": "pɔl ɑ̃ʁi sɑ̃daɔɡɔ damiba",
           "template": "ipa"
-        },
-        {
-          "template": "nbsp"
-        },
-        {
-          "template": "nbsp"
         }
       ],
       "infoboxes": [
@@ -98,16 +98,19 @@
             "text": "yes"
           },
           "battles": {
-            "text": "Jihadist insurgency in Burkina Faso 2022 Burkinabé coup d'état",
+            "text": "Jihadist insurgency in Burkina Faso January 2022 Burkina Faso coup d'état September 2022 Burkina Faso coup d'état",
             "links": [
               {
                 "type": "internal",
                 "page": "Jihadist insurgency in Burkina Faso"
               },
               {
-                "text": "2022 Burkinabé coup d'état",
                 "type": "internal",
-                "page": "2022 Burkinabé coup d'état"
+                "page": "January 2022 Burkina Faso coup d'état"
+              },
+              {
+                "type": "internal",
+                "page": "September 2022 Burkina Faso coup d'état"
               }
             ]
           }
@@ -134,6 +137,9 @@
           "term_start": {
             "text": "31 January 2022"
           },
+          "term_end": {
+            "text": "30 September 2022"
+          },
           "primeminister": {
             "text": "Albert Ouédraogo",
             "links": [
@@ -152,11 +158,23 @@
               }
             ]
           },
+          "successor": {
+            "text": "Ibrahim Traore",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Traore"
+              }
+            ]
+          },
           "office1": {
             "text": "Minister of National Defence and Veterans"
           },
           "term_start1": {
             "text": "12 September 2022"
+          },
+          "term_end1": {
+            "text": "30 September 2022"
           },
           "primeminister1": {
             "text": "Albert Ouédraogo",
@@ -168,13 +186,21 @@
             ]
           },
           "predecessor1": {
-            "text": "Brig. Gen. Aimé Barthélemy Simporé",
+            "text": "Aimé Barthélemy Simporé",
             "links": [
               {
                 "type": "internal",
                 "page": "Aimé Barthélemy Simporé"
               }
             ]
+          },
+          "successor1": {
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
           },
           "birth_date": {
             "text": "January 1981"
@@ -275,12 +301,24 @@
           "termstart2": {
             "text": "24 January 2022"
           },
+          "termend2": {
+            "text": "30 September 2022"
+          },
           "deputy2": {
             "text": "Sidsoré Kader Ouédraogo",
             "links": [
               {
                 "type": "internal",
                 "page": "Sidsoré Kader Ouédraogo"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ibrahim Traore",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Traore"
               }
             ]
           }
@@ -662,7 +700,7 @@
         },
         {
           "date": "2022-01-25",
-          "title": "Who is Paul-Henri Sandaogo Damiba, leader of Burkina Faso’s military takeover?",
+          "title": "Who is Paul-Henri Sandaogo Damiba, leader of Burkina Faso's military takeover?",
           "url": "https://www.rfi.fr/en/africa/20220125-who-is-paul-henri-sandaogo-damiba-leader-of-burkina-faso-s-military-takeover",
           "access-date": "2022-06-15",
           "website": "RFI",
@@ -672,7 +710,7 @@
         },
         {
           "date": "2022-01-25",
-          "title": "Who is Paul-Henri Sandaogo Damiba, leader of Burkina Faso’s military takeover?",
+          "title": "Who is Paul-Henri Sandaogo Damiba, leader of Burkina Faso's military takeover?",
           "url": "https://www.rfi.fr/en/africa/20220125-who-is-paul-henri-sandaogo-damiba-leader-of-burkina-faso-s-military-takeover",
           "access-date": "2022-06-15",
           "website": "RFI",
@@ -694,13 +732,14 @@
         },
         {
           "title": "Who is Burkina Faso coup leader Lt-Col Damiba?",
+          "work": "BBC News",
+          "date": "26 January 2022",
           "url": "https://www.bbc.com/news/world-africa-60141195",
           "access-date": "4 February 2022",
-          "website": "BBC",
           "language": "en",
           "archive-date": "26 January 2022",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "last1": "Turse",
@@ -725,18 +764,18 @@
       ]
     },
     {
-      "title": "2022 coup d'état",
+      "title": "Taking power, rule, and downfall",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "On 24 January 2022, Damiba led the 2022 Burkina Faso coup d'état deposing and detaining President Roch Marc Christian Kaboré and Prime Minister Lassina Zerbo.",
+              "text": "On 24 January 2022, Damiba led the a coup deposing and detaining President Roch Marc Christian Kaboré and Prime Minister Lassina Zerbo.",
               "links": [
                 {
-                  "text": "2022 Burkina Faso coup d'état",
+                  "text": "a coup",
                   "type": "internal",
-                  "page": "2022 Burkina Faso coup d'état"
+                  "page": "January 2022 Burkina Faso coup d'état"
                 },
                 {
                   "type": "internal",
@@ -771,12 +810,65 @@
               "text": "On 31 January, the military junta restored the Constitution and appointed Damiba as the interim president."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With Damiba at its head, the Patriotic Movement for Safeguard and Restoration military junta pledged to improve security and eventually restore civilian rule.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Patriotic Movement for Safeguard and Restoration"
+                }
+              ]
+            },
+            {
+              "text": "However, the military regime failed to defeat the Jihadists; instead, rebels ad other non-state actors even expanded their operations and controlled 40% of the country by September 2022."
+            },
+            {
+              "text": "Many military officers gew dissatisfied with Damiba, believing that he did not focus on the rebellion."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 30 September 2022, Damiba was ousted by the dissatisfied army elements headed by Captain Ibrahim Traore.",
+              "links": [
+                {
+                  "text": "was ousted by the dissatisfied army elements",
+                  "type": "internal",
+                  "page": "September 2022 Burkina Faso coup d'état"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ibrahim Traore"
+                }
+              ]
+            },
+            {
+              "text": "This came eight months after he had taken power."
+            },
+            {
+              "text": "Sahel expert and University of Calgary scholar Abdul Zanya Salifu argued that his inability to defeat the jihadists had led to Damiba's downfall, as his promise to improve security had been the justification for him taking power in the first place.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sahel"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Calgary"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
         {
           "list": [
-            "2022 Burkina Faso coup d'état"
+            "January 2022 Burkina Faso coup d'état"
           ],
           "template": "main"
         }
@@ -796,18 +888,28 @@
         },
         {
           "title": "Who is Burkina Faso coup leader Lt-Col Damiba?",
+          "work": "BBC News",
+          "date": "26 January 2022",
           "url": "https://www.bbc.com/news/world-africa-60141195",
           "access-date": "4 February 2022",
-          "website": "BBC",
           "language": "en",
           "archive-date": "26 January 2022",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "title": "Burkina Faso restores constitution, names coup leader president",
           "url": "https://www.aljazeera.com/news/2022/1/31/burkina-faso-restores-constitution-names-coup-leader-president",
           "access-date": "2022-01-31",
+          "website": "www.aljazeera.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Burkina Faso's military leader Damiba deposed, army captain says",
+          "url": "https://www.aljazeera.com/news/2022/9/30/burkina-faso-military-leader-damiba-deposed-coup-army",
+          "access-date": "2022-09-30",
           "website": "www.aljazeera.com",
           "language": "en",
           "template": "citation",
@@ -825,6 +927,36 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.france24.com/en/live-news/20220930-🔴-burkina-faso-army-captain-on-state-tv-announces-overthrow-of-military-government",
+          "title": "Burkina Faso army captain announces overthrow of military government",
+          "work": "France24",
+          "date": "30 September 2022",
+          "access-date": "30 September 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.reuters.com/world/africa/heavy-gunfire-heard-burkina-faso-capital-reuters-witnesses-2022-09-30/",
+          "title": "Burkina Faso army captain announces overthrow of military government",
+          "author1": "Thiam Ndiaga",
+          "author2": "Anne Mimault",
+          "work": "Reuters",
+          "date": "30 September 2022",
+          "access-date": "30 September 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html",
+          "title": "Gunfire Is Heard in Burkina Faso's Capital, Kindling Fears of a Coup",
+          "author": "Ruth Maclean",
+          "work": "New York Times",
+          "date": "30 September 2022",
+          "access-date": "30 September 2022",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -835,10 +967,10 @@
         {
           "sentences": [
             {
-              "text": "The 2022 coup was widely popular in Burkina Faso."
+              "text": "The January 2022 coup was widely popular in Burkina Faso."
             },
             {
-              "text": "Damiba has become known for the red beret he wears during speeches, believed to be an impression of Burkinabé revolutionary and founding father Thomas Sankara, whose speeches also carried similar rhetoric to Damiba's.",
+              "text": "Damiba has become known for the red beret he wears during speeches, believed to be an impression of Burkinabé revolutionary and founding father Thomas Sankara, whose speeches also carried similar rhetoric to Damiba's. Damiba had already gained praise prior to the coup for his activities fighting jihadists.",
               "links": [
                 {
                   "text": "red beret",
@@ -856,14 +988,17 @@
         {
           "sentences": [
             {
-              "text": "Damiba had already gained praise prior to the coup for his activities fighting jihadists."
+              "text": "When Damiba proved unable to contain the insurgency, public support for him declined sharply."
+            },
+            {
+              "text": "When he was overthrown in September 2022, groups in the capital gathered to express support for those who had deposed him."
             }
           ]
         }
       ],
       "references": [
         {
-          "title": "Burkina Faso Junta Leader Inaugurated as Nation’s President",
+          "title": "Burkina Faso Junta Leader Inaugurated as Nation's President",
           "url": "https://www.voanews.com/a/burkina-faso-junta-leader-inaugurated-as-nation-s-president-/6445496.html",
           "access-date": "2022-06-15",
           "website": "VOA",
@@ -932,9 +1067,20 @@
       "templates": [
         {
           "template": "reflist"
-        },
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
         {
-          "template": "commons category"
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons-inline"
         },
         {
           "template": "s-start"
@@ -948,12 +1094,13 @@
           "template": "s-bef"
         },
         {
-          "title": "President of the Patriotic Movement for Safeguard and Restoration of Burkina Faso",
-          "years": "2022–present",
+          "title": "Interim President of Burkina Faso",
+          "years": "January 2022–September 2022",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "after": "Ibrahim Traore\nAs Interim Leader",
+          "template": "s-aft"
         },
         {
           "template": "presidents of burkina faso"

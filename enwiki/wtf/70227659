@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Albert Ouédraogo is a Burkinabé economist who is serving as the Prime Minister, following the 2022 Burkina Faso coup d'état.",
+              "text": "Albert Ouédraogo is a Burkinabé economist who served as prime minister of Burkina Faso in the aftermath of the January 2022 Burkina Faso coup d'état, from 3 March until a second coup on 30 September.",
               "links": [
                 {
                   "text": "Burkinabé",
@@ -24,9 +24,12 @@
                   "page": "Burkina Faso"
                 },
                 {
-                  "text": "2022 Burkina Faso coup d'état",
                   "type": "internal",
-                  "page": "2022 Burkina Faso coup d'état"
+                  "page": "Burkina Faso"
+                },
+                {
+                  "type": "internal",
+                  "page": "January 2022 Burkina Faso coup d'état"
                 }
               ],
               "formatting": {
@@ -34,15 +37,6 @@
                   "Albert Ouédraogo"
                 ]
               }
-            },
-            {
-              "text": "He was appointed to the post by President Paul-Henri Sandaogo Damiba on 3 March 2022, following his official inauguration.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Paul-Henri Sandaogo Damiba"
-                }
-              ]
             }
           ]
         }
@@ -91,6 +85,9 @@
           "term_start": {
             "text": "3 March 2022"
           },
+          "term_end": {
+            "text": "30 September 2022"
+          },
           "predecessor": {
             "text": "Lassina Zerbo",
             "links": [
@@ -99,6 +96,14 @@
                 "page": "Lassina Zerbo"
               }
             ]
+          },
+          "successor": {
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
           },
           "birth_date": {
             "text": "6 April 1969"
@@ -140,14 +145,6 @@
           "access-date": "31 May 2022",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "date": "3 March 2022",
-          "title": "Burkina Faso junta names prime minister for ‘transition’ period",
-          "work": "France 24",
-          "url": "https://www.france24.com/en/africa/20220304-burkina-faso-junta-names-prime-minister-for-transition-period",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },
@@ -193,6 +190,15 @@
                   "page": "University of Ouagadougou"
                 }
               ]
+            },
+            {
+              "text": "He was appointed as prime minister by President Paul-Henri Sandaogo Damiba on 3 March 2022, following his official inauguration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paul-Henri Sandaogo Damiba"
+                }
+              ]
             }
           ]
         }
@@ -205,6 +211,14 @@
           "url": "https://www.jeuneafrique.com/1323018/politique/burkina-faso-qui-est-albert-ouedraogo-le-nouveau-premier-ministre-de-paul-henri-damiba/",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "3 March 2022",
+          "title": "Burkina Faso junta names prime minister for ‘transition’ period",
+          "work": "France 24",
+          "url": "https://www.france24.com/en/africa/20220304-burkina-faso-junta-names-prime-minister-for-transition-period",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -227,11 +241,12 @@
         },
         {
           "title": "Prime Minister of Burkina Faso",
-          "years": "2022–present",
+          "years": "March 2022–September 2022",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "after": "Vacant",
+          "template": "s-aft"
         },
         {
           "template": "bfpms"
