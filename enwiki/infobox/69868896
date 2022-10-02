@@ -1,19 +1,23 @@
 {
   "embed": "yes",
-  "battles": "Jihadist insurgency in Burkina Faso January 2022 Burkina Faso coup d'état September 2022 Burkina Faso coup d'état"
+  "battles": "Islamist insurgency Burkinabé coups d'état:"
 }
 {
   "name": "Paul-Henri Sandaogo Damiba",
-  "office": "Interim President of Burkina Faso",
-  "term_start": "31 January 2022",
-  "term_end": "30 September 2022",
-  "predecessor": "Roch Marc Christian Kaboré",
+  "office": "President of the Patriotic Movement for Safeguard and Restoration",
+  "termstart": "24 January 2022",
+  "termend": "30 September 2022",
+  "deputy": "Sidsoré Kader Ouédraogo",
   "successor": "Ibrahim Traore",
-  "office1": "Minister of National Defence and Veterans",
-  "term_start1": "12 September 2022",
+  "office1": "Interim President of Burkina Faso",
+  "term_start1": "31 January 2022",
   "term_end1": "30 September 2022",
-  "predecessor1": "Aimé Barthélemy Simporé",
-  "successor1": "Vacant",
+  "predecessor1": "Roch Marc Christian Kaboré",
+  "office2": "Minister of National Defence and Veterans",
+  "term_start2": "12 September 2022",
+  "term_end2": "30 September 2022",
+  "predecessor2": "Aimé Barthélemy Simporé",
+  "successor2": "Vacant",
   "birth_date": "January 1981",
   "birth_place": "Ouagadougou, Upper Volta (now Burkina Faso)",
   "nationality": "Burkinabé",
@@ -21,11 +25,7 @@
   "allegiance": "🇧🇫 Burkina Faso",
   "branch": "Army of Burkina Faso",
   "rank": "Lieutenant colonel",
-  "unit": "Insigne RSP.svg Regiment of Presidential Security (until 2011)",
+  "unit": "Insigne RSP.svg RSP (until 2011)",
   "serviceyears": "2003–present",
-  "office2": "President of the Patriotic Movement for Safeguard and Restoration",
-  "termstart2": "24 January 2022",
-  "termend2": "30 September 2022",
-  "deputy2": "Sidsoré Kader Ouédraogo",
-  "successor2": "Ibrahim Traore"
+  "successor1": "Ibrahim Traore"
 }
