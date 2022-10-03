@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Paul-Henri Sandaogo Damiba (born January 1981 ) is a Burkinabé military officer who served as interim president of Burkina Faso from 31 January 2022 to 30 September 2022, when he was removed in a coup d'état.",
+              "text": "Paul-Henri Sandaogo Damiba (born January 1981 ) is a Burkinabé military officer who served as interim president of Burkina Faso from 31 January 2022 to 30 September 2022, when he was removed in a coup d'état, by his own military colleague Ibrahim Traore.",
               "links": [
                 {
                   "text": "Burkinabé",
@@ -37,6 +37,10 @@
                   "text": "coup d'état",
                   "type": "internal",
                   "page": "September 2022 Burkina Faso coup d'état"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ibrahim Traore"
                 }
               ],
               "formatting": {
@@ -46,7 +50,7 @@
               }
             },
             {
-              "text": "Damiba himself had come to power just eight months earlier, on 24 January 2022, when he removed President Roch Marc Christian Kaboré in a coup.",
+              "text": "Damiba had come to power just eight months earlier, on 24 January 2022, when he removed President Roch Marc Christian Kaboré in a coup.",
               "links": [
                 {
                   "type": "internal",
@@ -68,7 +72,7 @@
           "template": "currentperson"
         },
         {
-          "description": "Burkinabé military officer and president since 2022",
+          "description": "Burkinabé military officer and president in 2022",
           "template": "short description"
         },
         {
@@ -344,7 +348,6 @@
           "work": "France 24",
           "url": "https://www.france24.com/en/africa/20220913-burkina-faso-s-military-leader-sacks-defence-minister-amid-continued-attacks",
           "access-date": "13 September 2022",
-          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -384,7 +387,7 @@
               ]
             },
             {
-              "text": "During his studies he met with future Guinean president Mamady Doumbouya, who was also training there.",
+              "text": "During his studies, he met with future Guinean president Mamady Doumbouya, who was also training there.",
               "links": [
                 {
                   "type": "internal",
@@ -409,6 +412,15 @@
       ],
       "references": [
         {
+          "last": "Legifrance",
+          "date": "12 February 2022",
+          "title": "Order of February 12, 2019 granting the higher military studies certificate",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038144219",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "title": "Who is Paul-Henri Damiba, leader of the Burkina Faso coup?",
           "url": "https://www.aljazeera.com/news/2022/1/25/burkina-faso-coup-leader-paul-henri-sandaogo-damiba",
           "date": "25 January 2022",
@@ -420,21 +432,6 @@
           "url-status": "live",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "first": "Philip Jr.",
-          "last": "Obaji",
-          "date": "January 25, 2022",
-          "title": "African President Was Ousted Just Weeks After Refusing to Pay Russian Paramilitaries",
-          "language": "en",
-          "work": "The Daily Beast",
-          "url": "https://www.thedailybeast.com/burkina-faso-president-ousted-after-refusing-to-pay-wagner-mercenaries",
-          "access-date": "2022-01-27",
-          "archive-date": "28 January 2022",
-          "archive-url": "https://web.archive.org/web/20220128040541/https://www.thedailybeast.com/burkina-faso-president-ousted-after-refusing-to-pay-wagner-mercenaries",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
         },
         {
           "date": "26 January 2022",
@@ -748,8 +745,23 @@
           "type": "web"
         },
         {
+          "last": "Obaji",
+          "first": "Philip Jr.",
+          "date": "January 25, 2022",
+          "title": "African President Was Ousted Just Weeks After Refusing to Pay Russian Paramilitaries",
+          "language": "en",
+          "work": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/burkina-faso-president-ousted-after-refusing-to-pay-wagner-mercenaries",
+          "url-status": "live",
+          "access-date": "2022-01-27",
+          "archive-url": "https://web.archive.org/web/20220128040541/https://www.thedailybeast.com/burkina-faso-president-ousted-after-refusing-to-pay-wagner-mercenaries",
+          "archive-date": "28 January 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "date": "2022-05-16",
-          "title": "Paul-Henry Sandaogo Damiba (1981- ) •",
+          "title": "Paul-Henry Sandaogo Damiba (1981– ) •",
           "url": "https://www.blackpast.org/global-african-history/people-global-african-history/paul-henry-sandaogo-damiba-1981/",
           "access-date": "2022-06-15",
           "language": "en-US",
@@ -886,7 +898,32 @@
         {
           "sentences": [
             {
-              "text": "After being overthrown, Dambia was held at Camp Kamboinsin, a military base for Burkina Faso's special forces."
+              "text": "The whereabouts of Damiba after the coup remain unknown."
+            },
+            {
+              "text": "The new junta under the leadership of Traore later accused Damiba of trying to flee towards the French military base of Camp Kamboinsin in order to mount a counter-coup."
+            },
+            {
+              "text": "Damiba however rejected the charge and Traore later stated that he did not think France was involved."
+            },
+            {
+              "text": "France denied any involvement in the September 2022 coup."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Religious and community leaders announced on 2 October that Damiba had agreed to resign from his position after they mediated between him and Traore."
+            },
+            {
+              "text": "Damiba demanded seven guarantees in return, including that his allies would be protected, a guarantee for his security and rights, and that the new junta would fulfill the promise he made to the Economic Community of West African States (ECOWAS) about restoring civilian rule in two years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Economic Community of West African States"
+                }
+              ]
             }
           ]
         }
@@ -943,12 +980,32 @@
           "type": "web"
         },
         {
-          "url": "https://www.jeuneafrique.com/1381642/politique/burkina-ibrahim-traore-proclame-president-damiba-destitue/",
-          "title": "Burkina : Ibrahim Traoré proclamé président, Damiba destitué",
-          "work": "Jeune Afrique",
-          "language": "French",
-          "date": "30 September 2022",
-          "access-date": "30 September 2022",
+          "url": "https://apnews.com/736918204f6d31ff631bdd145e0a2f9d",
+          "title": "Protesters attack French Embassy in Burkina Faso after coup",
+          "author1": "Sam Mednick",
+          "author2": "Arsene Kabore",
+          "work": "Associated Press",
+          "date": "1 October 2022",
+          "access-date": "2 October 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.france24.com/en/africa/20221002-security-forces-fire-tear-gas-at-burkina-protesters-outside-french-embassy-after-coup",
+          "title": "Burkina Faso junta leader Damiba agrees to resign following junior officers' coup",
+          "work": "France24",
+          "date": "2 October 2022",
+          "access-date": "2 October 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://english.alarabiya.net/News/world/2022/10/02/Burkina-Faso-s-junta-Damiba-agrees-to-step-down-Religious-mediators-",
+          "title": "Burkina Faso's junta Damiba agrees to step down: Religious mediators",
+          "work": "Agence France-Presse",
+          "publisher": "Al Arabiya",
+          "date": "2 October 2022",
+          "access-date": "2 October 2022",
           "template": "citation",
           "type": "web"
         },
@@ -1040,7 +1097,7 @@
           "access-date": "2022-06-15",
           "website": "VOA",
           "language": "en",
-          "quote": "Damiba’s had wide popular support since taking control",
+          "quote": "Damiba's had wide popular support since taking control",
           "template": "citation",
           "type": "web"
         },

@@ -6,6 +6,7 @@
     "Heads of state of Burkina Faso",
     "Burkinabé military personnel",
     "Leaders who took power by coup",
+    "Jihadist insurgency in Burkina Faso",
     "20th-century Burkinabé people",
     "21st-century Burkinabé people",
     "Place of birth missing (living people)",
@@ -20,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Ibrahim Traore (born c. undefined 1988) is a Burkinabé military officer who is the interim leader of Burkina Faso since the 30 September 2022 coup d'état which ousted President Paul-Henri Sandaogo Damiba.",
+              "text": "Ibrahim Traoré (born c. undefined 1988) is a Burkinabé military officer who is the interim leader of Burkina Faso since the 30 September 2022 coup d'état which ousted President Paul-Henri Sandaogo Damiba.",
               "links": [
                 {
                   "type": "internal",
@@ -38,7 +39,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Ibrahim Traore"
+                  "Ibrahim Traoré"
                 ]
               }
             }
@@ -47,7 +48,7 @@
       ],
       "templates": [
         {
-          "description": "Burkinabé military officer",
+          "description": "De facto leader of Burkina Faso",
           "template": "short description"
         },
         {
@@ -76,7 +77,10 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Ibrahim Traore"
+            "text": "Ibrahim Traoré"
+          },
+          "image": {
+            "text": "Ibrahim Traoré (cropped).jpg"
           },
           "office": {
             "text": "President of the Patriotic Movement for Safeguard and Restoration",
@@ -138,7 +142,7 @@
             ]
           },
           "unit": {
-            "text": "\"Cobra\" special forces unit"
+            "text": "\"Cobra\" special forces unit (disputed)"
           },
           "battles": {
             "text": "Islamist insurgency Burkinabé coups d'état:",
@@ -158,6 +162,16 @@
         }
       ],
       "references": [
+        {
+          "url": "https://www.theafricareport.com/245959/burkina-faso-ibrahim-traore-proclaimed-president-damiba-ousted/",
+          "title": "Burkina Faso: Ibrahim Traoré proclaimed President, Damiba ousted",
+          "agency": "Jeune Afrique",
+          "website": "The Africa Report",
+          "date": "1 October 2022",
+          "access-date": "1 October 2022",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "url": "https://taz.de/Putsch-in-Burkina-Faso/!5885073/",
           "title": "Putsch in Burkina Faso: Ibrahim Traoré hat die Macht",
@@ -189,7 +203,7 @@
         {
           "sentences": [
             {
-              "text": "Ibrahim Traore was born around 1988."
+              "text": "Ibrahim Traoré was born around 1988."
             },
             {
               "text": "He studied at the University of Ouagadougou where he was part of the Association of Muslim Students.",
@@ -217,7 +231,7 @@
               ]
             },
             {
-              "text": "He became part of the \"Cobra\" special forces, a counterterrorist unit founded in 2019.",
+              "text": "His association with the \"Cobra\" special forces, a counterterrorist unit founded in 2019, is disputed.",
               "links": [
                 {
                   "text": "counterterrorist",
@@ -225,13 +239,51 @@
                   "page": "Counterterrorism"
                 }
               ]
+            },
+            {
+              "text": "According to several sources such as BBC, Al Jazeera, and Die Tageszeitung, he was part of the unit.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "BBC"
+                },
+                {
+                  "type": "internal",
+                  "page": "Al Jazeera"
+                },
+                {
+                  "type": "internal",
+                  "page": "Die Tageszeitung"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "BBC",
+                  "Al Jazeera",
+                  "Die Tageszeitung"
+                ]
+              }
+            },
+            {
+              "text": "However, news magazine Jeune Afrique stated that he was not associated with the \"Cobras\", and instead served in an artillery regiment.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jeune Afrique"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Jeune Afrique"
+                ]
+              }
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Traore was part of the group of army officers that supported the January 2022 Burkina Faso coup d'état and brought the Patriotic Movement for Safeguard and Restoration military junta to power.",
+              "text": "Traoré was part of the group of army officers that supported the January 2022 Burkina Faso coup d'état and brought the Patriotic Movement for Safeguard and Restoration military junta to power.",
               "links": [
                 {
                   "type": "internal",
@@ -249,13 +301,18 @@
               ]
             },
             {
-              "text": "He served as head of the \"Cobra\" unit in Kaya, a town in Burkina Faso's north, and was one of many younger officers who fought against the rebels at the frontlines during the jihadist insurgency in Burkina Faso.",
+              "text": "He served as head of a military unit in Kaya, a town in Burkina Faso's north, either as part of the \"Cobras\" or an artillery unit.",
               "links": [
                 {
                   "text": "Kaya",
                   "type": "internal",
                   "page": "Kaya, Burkina Faso"
-                },
+                }
+              ]
+            },
+            {
+              "text": "He was one of many younger officers who fought against the rebels at the frontlines during the jihadist insurgency in Burkina Faso.",
+              "links": [
                 {
                   "text": "jihadist insurgency in Burkina Faso",
                   "type": "internal",
@@ -295,6 +352,15 @@
         }
       ],
       "references": [
+        {
+          "title": "Burkina Faso coup: Gunshots in capital and roads blocked",
+          "url": "https://www.bbc.com/news/world-africa-63081706",
+          "website": "BBC",
+          "date": "1 October 2022",
+          "access-date": "2 October 2022",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "title": "Burkina Faso: Military officers remove President Damiba in a coup",
           "url": "https://www.aljazeera.com/news/2022/9/30/burkina-faso-military-leader-damiba-deposed-coup-army",
