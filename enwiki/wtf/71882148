@@ -11,7 +11,8 @@
     "21st-century Burkinabé people",
     "Place of birth missing (living people)",
     "Date of birth missing (living people)",
-    "Year of birth missing (living people)"
+    "Year of birth missing (living people)",
+    "University of Ouagadougou alumni"
   ],
   "sections": [
     {
@@ -48,23 +49,32 @@
       ],
       "templates": [
         {
+          "date": "October 2022",
+          "template": "use dmy dates"
+        },
+        {
           "description": "De facto leader of Burkina Faso",
           "template": "short description"
         },
         {
           "list": [
-            "Ibrahim Traoré",
+            "the Ivorian footballer",
+            "Ibrahim Traoré (footballer)",
+            "the French-Guinean footballer",
             "Ibrahima Traoré"
           ],
-          "template": "distinguish"
+          "template": "for multi"
         },
         {
           "date": "September 2022",
           "template": "current person"
         },
         {
-          "birth_year": "1988",
-          "template": "birth year and age"
+          "age": "34",
+          "year": "2022",
+          "month": "09",
+          "day": "30",
+          "template": "birth based on age as of date"
         },
         {
           "list": [
@@ -78,9 +88,6 @@
         {
           "name": {
             "text": "Ibrahim Traoré"
-          },
-          "image": {
-            "text": "Ibrahim Traoré (cropped).jpg"
           },
           "office": {
             "text": "President of the Patriotic Movement for Safeguard and Restoration",
