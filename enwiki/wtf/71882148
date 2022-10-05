@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Ibrahim Traoré (born c. undefined 1988) is a Burkinabé military officer who is the interim leader of Burkina Faso since the 30 September 2022 coup d'état which ousted President Paul-Henri Sandaogo Damiba.",
+              "text": "Ibrahim Traoré (born 1988) is a Burkinabé military officer who has been the interim leader of Burkina Faso since the 30 September 2022 coup d'état which ousted President Paul-Henri Sandaogo Damiba.",
               "links": [
                 {
                   "type": "internal",
@@ -53,28 +53,24 @@
           "template": "use dmy dates"
         },
         {
-          "description": "De facto leader of Burkina Faso",
+          "description": "Military leader of Burkina Faso",
           "template": "short description"
         },
         {
           "list": [
             "the Ivorian footballer",
-            "Ibrahim Traoré (footballer)",
-            "the French-Guinean footballer",
-            "Ibrahima Traoré"
+            "Ibrahim Traoré (footballer)"
           ],
-          "template": "for multi"
+          "template": "for"
         },
         {
-          "date": "September 2022",
-          "template": "current person"
+          "1": "Ibrahim Traoré",
+          "2": "Talk:Ibrahim Traore#Requested move 4 October 2022",
+          "template": "user:rmcd bot/subject notice"
         },
         {
-          "age": "34",
-          "year": "2022",
-          "month": "09",
-          "day": "30",
-          "template": "birth based on age as of date"
+          "birth_year": "1988",
+          "template": "birth year and age"
         },
         {
           "list": [
@@ -88,6 +84,9 @@
         {
           "name": {
             "text": "Ibrahim Traoré"
+          },
+          "image": {
+            "text": "Ibrahim Traoré.jpg"
           },
           "office": {
             "text": "President of the Patriotic Movement for Safeguard and Restoration",
@@ -112,10 +111,20 @@
             ]
           },
           "birth_date": {
-            "text": "c. undefined 1988 (age 34)"
+            "text": "1988 (age 34)"
           },
-          "nationality": {
-            "text": "Burkinabé"
+          "birth_place": {
+            "text": "Bondokuy, Burkina Faso",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bondokuy"
+              },
+              {
+                "type": "internal",
+                "page": "Burkina Faso"
+              }
+            ]
           },
           "allegiance": {
             "text": "🇧🇫 Burkina Faso",
@@ -152,7 +161,7 @@
             "text": "\"Cobra\" special forces unit (disputed)"
           },
           "battles": {
-            "text": "Islamist insurgency Burkinabé coups d'état:",
+            "text": "Islamist insurgency Burkinabé coup d'etats:",
             "links": [
               {
                 "text": "Islamist insurgency",
@@ -160,11 +169,14 @@
                 "page": "Jihadist insurgency in Burkina Faso"
               },
               {
-                "text": "Burkinabé coups d'état",
+                "text": "Burkinabé coup d'etats",
                 "type": "internal",
                 "page": "Burkina Faso coup d'état"
               }
             ]
+          },
+          "caption": {
+            "text": "Traoré in 2022"
           }
         }
       ],
@@ -210,7 +222,13 @@
         {
           "sentences": [
             {
-              "text": "Ibrahim Traoré was born around 1988."
+              "text": "Ibrahim Traoré was born in Bondokuy in 1988.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bondokuy"
+                }
+              ]
             },
             {
               "text": "He studied at the University of Ouagadougou where he was part of the Association of Muslim Students.",
@@ -341,7 +359,14 @@
               "text": "In addition, there were delays in pay for the \"Cobra\" troops."
             },
             {
-              "text": "When the plotters launched their coup on 30 September, Traore held the rank of Captain and was 34 years old."
+              "text": "When the plotters launched their coup on 30 September, Traore held the rank of Captain and was 34 years old.",
+              "links": [
+                {
+                  "text": "Captain",
+                  "type": "internal",
+                  "page": "Captain (armed forces)"
+                }
+              ]
             },
             {
               "text": "The operation was carried out with support of the \"Cobra\" unit."
@@ -359,6 +384,16 @@
         }
       ],
       "references": [
+        {
+          "title": "Portrait du nouveau Président du MPSR, le capitaine Ibrahim TRAORE",
+          "date": "2022-10-02",
+          "url": "https://www.youtube.com/watch?v=X8vtSEppJbc",
+          "publisher": "Radiodiffusion Télévision du Burkina",
+          "language": "fr",
+          "access-date": "2022-10-04",
+          "template": "citation",
+          "type": "citation"
+        },
         {
           "title": "Burkina Faso coup: Gunshots in capital and roads blocked",
           "url": "https://www.bbc.com/news/world-africa-63081706",
