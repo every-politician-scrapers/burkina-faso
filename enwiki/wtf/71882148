@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Ibrahim Traoré (born 1988) is a Burkinabé military officer who has been the interim leader of Burkina Faso since the 30 September 2022 coup d'état which ousted President Paul-Henri Sandaogo Damiba.",
+              "text": "Ibrahim Traoré (born 1988) is a Burkinabé military officer who has been the interim leader of Burkina Faso since the 30 September 2022 coup d'état which ousted interim president Paul-Henri Sandaogo Damiba.",
               "links": [
                 {
                   "type": "internal",
@@ -49,12 +49,12 @@
       ],
       "templates": [
         {
-          "date": "October 2022",
-          "template": "use dmy dates"
+          "description": "Military leader of Burkina Faso since 2022",
+          "template": "short description"
         },
         {
-          "description": "Military leader of Burkina Faso",
-          "template": "short description"
+          "date": "October 2022",
+          "template": "use dmy dates"
         },
         {
           "list": [
@@ -86,7 +86,10 @@
             "text": "Ibrahim Traoré"
           },
           "image": {
-            "text": "Ibrahim Traoré.jpg"
+            "text": "Ibrahim Traoré (cropped).jpg"
+          },
+          "caption": {
+            "text": "Traoré in 2022"
           },
           "office": {
             "text": "President of the Patriotic Movement for Safeguard and Restoration",
@@ -161,8 +164,12 @@
             "text": "\"Cobra\" special forces unit (disputed)"
           },
           "battles": {
-            "text": "Islamist insurgency Burkinabé coup d'etats:",
+            "text": "Mali War Islamist insurgency Burkinabé coup d'etats:",
             "links": [
+              {
+                "type": "internal",
+                "page": "Mali War"
+              },
               {
                 "text": "Islamist insurgency",
                 "type": "internal",
@@ -174,29 +181,25 @@
                 "page": "Burkina Faso coup d'état"
               }
             ]
-          },
-          "caption": {
-            "text": "Traoré in 2022"
           }
         }
       ],
       "references": [
         {
-          "url": "https://www.theafricareport.com/245959/burkina-faso-ibrahim-traore-proclaimed-president-damiba-ousted/",
-          "title": "Burkina Faso: Ibrahim Traoré proclaimed President, Damiba ousted",
-          "agency": "Jeune Afrique",
-          "website": "The Africa Report",
-          "date": "1 October 2022",
-          "access-date": "1 October 2022",
+          "url": "https://www.bbc.com/gahuza/articles/c6pkpqrnwwro",
+          "title": "Izina mu makuru: Menya Capt Ibrahim Traoré wafashe ubutegetsi i Ouagadougou",
+          "work": "BBC",
+          "language": "Kinyarwanda",
+          "date": "3 October 2022",
+          "access-date": "5 October 2022",
           "template": "citation",
           "type": "web"
         },
         {
-          "url": "https://taz.de/Putsch-in-Burkina-Faso/!5885073/",
-          "title": "Putsch in Burkina Faso: Ibrahim Traoré hat die Macht",
-          "author": "Katrin Gänsler",
-          "work": "Jeune Afrique",
-          "language": "German",
+          "url": "https://www.theafricareport.com/245959/burkina-faso-ibrahim-traore-proclaimed-president-damiba-ousted/",
+          "title": "Burkina Faso: Ibrahim Traoré proclaimed President, Damiba ousted",
+          "agency": "Jeune Afrique",
+          "website": "The Africa Report",
           "date": "1 October 2022",
           "access-date": "1 October 2022",
           "template": "citation",
@@ -222,16 +225,29 @@
         {
           "sentences": [
             {
-              "text": "Ibrahim Traoré was born in Bondokuy in 1988.",
+              "text": "Ibrahim Traoré was born in Bondokuy, Mouhoun Province, in 1988.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Bondokuy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mouhoun Province"
                 }
               ]
             },
             {
-              "text": "He studied at the University of Ouagadougou where he was part of the Association of Muslim Students.",
+              "text": "After receiving his primary education in Bondokuy, he attended a high school in Bobo-Dioulasso where he became known as being \"quiet\" and \"very talented\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bobo-Dioulasso"
+                }
+              ]
+            },
+            {
+              "text": "From 2006, he studied at the University of Ouagadougou where he was part of the Association of Muslim Students.",
               "links": [
                 {
                   "type": "internal",
@@ -240,68 +256,91 @@
               ]
             },
             {
-              "text": "He joined the army of Burkina Faso in 2010, and was promoted to captain in 2020.",
+              "text": "He graduated from the university with honors."
+            },
+            {
+              "text": "Traoré joined the army of Burkina Faso in 2009, and quickly began to climb the ranks.",
               "links": [
                 {
                   "text": "army of Burkina Faso",
                   "type": "internal",
                   "page": "Burkina Faso Armed Forces",
                   "anchor": "Ground forces"
+                }
+              ]
+            },
+            {
+              "text": "He was sent to Morocco for anti-aircraft training before being transferred to an infantry unit in Kaya, a town in Burkina Faso's north.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Morocco"
                 },
+                {
+                  "text": "Kaya",
+                  "type": "internal",
+                  "page": "Kaya, Burkina Faso"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Promoted to lieutenant in 2014, Traoré joined MINUSMA, a United Nations peacekeeping force involved in the Mali War.",
+              "links": [
+                {
+                  "text": "MINUSMA",
+                  "type": "internal",
+                  "page": "United Nations Multidimensional Integrated Stabilization Mission in Mali"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                },
+                {
+                  "text": "peacekeeping",
+                  "type": "internal",
+                  "page": "peacekeeping"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mali War"
+                }
+              ]
+            },
+            {
+              "text": "In 2018, he was cited as one of the MINUSMA soldiers who \"showed courage\" during major rebel attacks in the Tombouctou Region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tombouctou Region"
+                }
+              ]
+            },
+            {
+              "text": "He subsequently returned to Burkina Faso where he assisted in operations against the escalating jihadist insurgency.",
+              "links": [
+                {
+                  "text": "jihadist insurgency",
+                  "type": "internal",
+                  "page": "Jihadist insurgency in Burkina Faso"
+                }
+              ]
+            },
+            {
+              "text": "Traoré fought in the \"Otapuanu offensive\" of 2019 and several other counter-insurgency operations in the country's north."
+            },
+            {
+              "text": "He was promoted to captain in 2020.",
+              "links": [
                 {
                   "text": "captain",
                   "type": "internal",
                   "page": "Captain (armed forces)"
                 }
               ]
-            },
-            {
-              "text": "His association with the \"Cobra\" special forces, a counterterrorist unit founded in 2019, is disputed.",
-              "links": [
-                {
-                  "text": "counterterrorist",
-                  "type": "internal",
-                  "page": "Counterterrorism"
-                }
-              ]
-            },
-            {
-              "text": "According to several sources such as BBC, Al Jazeera, and Die Tageszeitung, he was part of the unit.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "BBC"
-                },
-                {
-                  "type": "internal",
-                  "page": "Al Jazeera"
-                },
-                {
-                  "type": "internal",
-                  "page": "Die Tageszeitung"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "BBC",
-                  "Al Jazeera",
-                  "Die Tageszeitung"
-                ]
-              }
-            },
-            {
-              "text": "However, news magazine Jeune Afrique stated that he was not associated with the \"Cobras\", and instead served in an artillery regiment.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jeune Afrique"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Jeune Afrique"
-                ]
-              }
             }
           ]
         },
@@ -326,24 +365,55 @@
               ]
             },
             {
-              "text": "He served as head of a military unit in Kaya, a town in Burkina Faso's north, either as part of the \"Cobras\" or an artillery unit.",
+              "text": "From March 2022, he served as the head of an artillery regiment in Kaya."
+            },
+            {
+              "text": "Whether he was ever associated with the \"Cobra\" special forces, a counterterrorist unit founded in 2019, is disputed.",
               "links": [
                 {
-                  "text": "Kaya",
+                  "text": "counterterrorist",
                   "type": "internal",
-                  "page": "Kaya, Burkina Faso"
+                  "page": "Counterterrorism"
                 }
               ]
             },
             {
-              "text": "He was one of many younger officers who fought against the rebels at the frontlines during the jihadist insurgency in Burkina Faso.",
+              "text": "According to several sources such as BBC, Al Jazeera, and Die Tageszeitung, he was part of the unit at some point.",
               "links": [
                 {
-                  "text": "jihadist insurgency in Burkina Faso",
                   "type": "internal",
-                  "page": "jihadist insurgency in Burkina Faso"
+                  "page": "BBC"
+                },
+                {
+                  "type": "internal",
+                  "page": "Al Jazeera"
+                },
+                {
+                  "type": "internal",
+                  "page": "Die Tageszeitung"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "BBC",
+                  "Al Jazeera",
+                  "Die Tageszeitung"
+                ]
+              }
+            },
+            {
+              "text": "However, news magazine Jeune Afrique stated that he was never associated with the \"Cobras\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jeune Afrique"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Jeune Afrique"
+                ]
+              }
             }
           ]
         },
@@ -356,10 +426,13 @@
               "text": "Traore later claimed that he and other officers had tried to get Damiba to \"refocus\" on the rebellion, but eventually opted to overthrow him as \"his ambitions were diverting away from what we set out to do\"."
             },
             {
+              "text": "The dissatisfaction about the situation was highest among younger officers who fought against the rebels at the frontlines."
+            },
+            {
               "text": "In addition, there were delays in pay for the \"Cobra\" troops."
             },
             {
-              "text": "When the plotters launched their coup on 30 September, Traore held the rank of Captain and was 34 years old.",
+              "text": "When the plotters launched their coup on 30 September, Traore held the rank of Captain The operation was carried out with support of the \"Cobra\" unit.",
               "links": [
                 {
                   "text": "Captain",
@@ -367,9 +440,6 @@
                   "page": "Captain (armed forces)"
                 }
               ]
-            },
-            {
-              "text": "The operation was carried out with support of the \"Cobra\" unit."
             },
             {
               "text": "Traore declared himself the new head of the Patriotic Movement for Safeguard and Restoration.",
@@ -385,6 +455,15 @@
       ],
       "references": [
         {
+          "title": "Burkina Faso coup: Gunshots in capital and roads blocked",
+          "url": "https://www.bbc.com/news/world-africa-63081706",
+          "website": "BBC",
+          "date": "1 October 2022",
+          "access-date": "2 October 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "title": "Portrait du nouveau Président du MPSR, le capitaine Ibrahim TRAORE",
           "date": "2022-10-02",
           "url": "https://www.youtube.com/watch?v=X8vtSEppJbc",
@@ -395,13 +474,15 @@
           "type": "citation"
         },
         {
-          "title": "Burkina Faso coup: Gunshots in capital and roads blocked",
-          "url": "https://www.bbc.com/news/world-africa-63081706",
-          "website": "BBC",
+          "url": "https://taz.de/Putsch-in-Burkina-Faso/!5885073/",
+          "title": "Putsch in Burkina Faso: Ibrahim Traoré hat die Macht",
+          "author": "Katrin Gänsler",
+          "work": "Jeune Afrique",
+          "language": "German",
           "date": "1 October 2022",
-          "access-date": "2 October 2022",
+          "access-date": "1 October 2022",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "title": "Burkina Faso: Military officers remove President Damiba in a coup",
@@ -421,6 +502,62 @@
           "access-date": "30 September 2022",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Association with Russia",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Some suspect Traore of having a connection with Russian mercenary organization Wagner Group.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wagner Group"
+                }
+              ]
+            },
+            {
+              "text": "As Traore entered Ouagadougou, the nation's capital, supporters cheered, some waving Russian flags.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ouagadougou"
+                },
+                {
+                  "text": "Russian flags",
+                  "type": "internal",
+                  "page": "flag of Russia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "section"
+          ],
+          "date": "October 2022",
+          "template": "barelinks"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
