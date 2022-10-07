@@ -97,7 +97,7 @@
               {
                 "text": "President of the Patriotic Movement for Safeguard and Restoration",
                 "type": "internal",
-                "page": "List of heads of state of Burkina Faso"
+                "page": "Patriotic Movement for Safeguard and Restoration"
               }
             ]
           },
@@ -105,6 +105,28 @@
             "text": "30 September 2022"
           },
           "predecessor": {
+            "text": "Paul-Henri Sandaogo Damiba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul-Henri Sandaogo Damiba"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Interim President of Burkina Faso",
+            "links": [
+              {
+                "text": "Interim President of Burkina Faso",
+                "type": "internal",
+                "page": "List of heads of state of Burkina Faso"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "6 October 2022"
+          },
+          "predecessor1": {
             "text": "Paul-Henri Sandaogo Damiba",
             "links": [
               {
