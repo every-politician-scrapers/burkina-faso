@@ -92,17 +92,17 @@
             "text": "Traoré in 2022"
           },
           "office": {
-            "text": "President of the Patriotic Movement for Safeguard and Restoration",
+            "text": "Interim President of Burkina Faso",
             "links": [
               {
-                "text": "President of the Patriotic Movement for Safeguard and Restoration",
+                "text": "President of Burkina Faso",
                 "type": "internal",
-                "page": "Patriotic Movement for Safeguard and Restoration"
+                "page": "List of heads of state of Burkina Faso"
               }
             ]
           },
           "term_start": {
-            "text": "30 September 2022"
+            "text": "6 October 2022"
           },
           "predecessor": {
             "text": "Paul-Henri Sandaogo Damiba",
@@ -114,17 +114,16 @@
             ]
           },
           "office1": {
-            "text": "Interim President of Burkina Faso",
+            "text": "President of the Patriotic Movement for Safeguard and Restoration",
             "links": [
               {
-                "text": "Interim President of Burkina Faso",
                 "type": "internal",
-                "page": "List of heads of state of Burkina Faso"
+                "page": "Patriotic Movement for Safeguard and Restoration"
               }
             ]
           },
           "term_start1": {
-            "text": "6 October 2022"
+            "text": "30 September 2022"
           },
           "predecessor1": {
             "text": "Paul-Henri Sandaogo Damiba",
@@ -186,7 +185,7 @@
             "text": "\"Cobra\" special forces unit (disputed)"
           },
           "battles": {
-            "text": "Mali War Islamist insurgency Burkinabé coup d'etats:",
+            "text": "Mali War\nIslamist insurgency\nBurkinabé coup d'etats:",
             "links": [
               {
                 "type": "internal",
@@ -207,6 +206,15 @@
         }
       ],
       "references": [
+        {
+          "title": "Traore officially appointed as president of Burkina Faso after coup",
+          "url": "https://www.france24.com/en/africa/20221006-traore-officially-appointed-as-president-of-burkina-faso-after-coup",
+          "access-date": "8 October 2022",
+          "work": "France24",
+          "date": "6 October 2022",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "url": "https://www.bbc.com/gahuza/articles/c6pkpqrnwwro",
           "title": "Izina mu makuru: Menya Capt Ibrahim Traoré wafashe ubutegetsi i Ouagadougou",
@@ -570,31 +578,30 @@
       ],
       "references": [
         {
+          "url": "https://www.nytimes.com/2022/10/02/world/africa/burkina-faso-coup-france-russia.html",
+          "title": "In Burkina Faso, the Man Who Once Led a Coup is Ousted by One",
+          "newspaper": "The New York Times",
+          "date": "2 October 2022",
+          "last1": "Peltier",
+          "first1": "Elian",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
+          "url": "https://www.reuters.com/world/africa/who-is-ibrahim-traore-soldier-behind-burkina-fasos-latest-coup-2022-10-03/",
+          "title": "Who is Ibrahim Traore, the soldier behind Burkina Faso's latest coup?",
+          "newspaper": "Reuters",
+          "date": "4 October 2022",
+          "last1": "McAllister",
+          "first1": "Edward",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         }
       ]
     },
     {
       "title": "References",
       "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "}}"
-            }
-          ]
-        }
-      ],
       "templates": [
         {
           "template": "reflist"
@@ -607,6 +614,7 @@
         },
         {
           "before": "Paul-Henri Sandaogo Damiba",
+          "rows": "2",
           "template": "s-bef"
         },
         {
@@ -615,7 +623,13 @@
           "template": "s-ttl"
         },
         {
+          "rows": "2",
           "template": "s-inc"
+        },
+        {
+          "title": "Interim President of Burkina Faso",
+          "years": "2022–present",
+          "template": "s-ttl"
         },
         {
           "template": "presidents of burkina faso"
