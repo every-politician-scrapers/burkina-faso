@@ -1,0 +1,98 @@
+{
+  "title": "Alassane Bala Sakandé",
+  "pageID": 71974301,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alassane Bala Sakandé is a politician and bank executive from Burkina Faso who served as President of the National Assembly of Burkina Faso after death of Salif Diallo and National President of People's Movement for Progress.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Burkina Faso"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of the National Assembly of Burkina Faso"
+                },
+                {
+                  "type": "internal",
+                  "page": "Salif Diallo"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's Movement for Progress"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alassane Bala Sakandé"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "refimprove"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://books.google.com/books?id=v9o6EAAAQBAJ&newbks=0&printsec=frontcover&pg=PT314&dq=Alassane+Bala+Sakand%C3%A9&hl=en",
+          "title": "The International Directory of Government 2021",
+          "date": "2021-08-04",
+          "publisher": "Routledge",
+          "isbn": "978-1-000-52137-5",
+          "language": "en",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Lansford",
+          "first": "Tom",
+          "url": "https://books.google.com/books?id=ewgpEAAAQBAJ&newbks=0&printsec=frontcover&pg=PA2005-IA476&dq=Alassane+Bala+Sakand%C3%A9&hl=en",
+          "title": "Political Handbook of the World 2020-2021",
+          "date": "2021-05-31",
+          "publisher": "CQ Press",
+          "isbn": "978-1-5443-8473-3",
+          "language": "en",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Bala Alassane Sakandé elected as the new president of the MPP",
+          "url": "https://www.africanews.com/2021/09/27/bala-alassane-sakande-elected-as-the-new-president-of-the-mpp/",
+          "access-date": "2022-10-11",
+          "website": "Africanews",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "more cats"
+        },
+        {
+          "template": "burkinafaso-politician-stub"
+        }
+      ]
+    }
+  ]
+}
