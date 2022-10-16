@@ -1,0 +1,24 @@
+{
+    "jurisdiction": {
+        "name": "Burkina Faso",
+        "id": "Q965"
+    },
+    "cabinet": {
+      "id":     "Q114703163",
+      "start":  "2022-03-05",
+      "end":    "2022-03-07",
+      "parent": "Q113648559"
+    },
+    "reference": {
+        "P854":   "https://www.leconomistedufaso.bf/2022/03/06/nouveaux-gouvernment-i-du-premier-ministre-le-dr-albert-ouedraogo/",
+        "P577":  "2022-03-06",
+        "P1476": {
+            "text": "Nouveau gouvernement du Premier ministre, Dr Albert Ouédraogo",
+            "language": "fr"
+        }
+    },
+    "lang": "fr",
+    "person_description": {
+        "en": "politician in Burkina Faso"
+    }
+}
