@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Burkina Faso",
+        "id": "Q965"
+    },
+    "cabinet": {
+      "id":     "Q111209247",
+      "start":  "2021-01-10",
+      "end":    "2021-02-10",
+      "parent": "Q113648559"
+    },
+    "reference": {
+        "P4656": "https://fr.wikipedia.org/wiki/Gouvernement_Dabir%C3%A9_II"
+    },
+    "lang": "fr",
+    "person_description": {
+        "en": "politician in Burkina Faso"
+    }
+}
