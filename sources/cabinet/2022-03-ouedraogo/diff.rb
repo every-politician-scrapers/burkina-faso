@@ -5,7 +5,7 @@ require 'every_politician_scraper/comparison'
 
 class Comparison < EveryPoliticianScraper::DecoratedComparison
   def columns
-    %i[item itemlabel position positionlabel startdate enddate psid]
+    %i[item itemlabel gender position positionlabel startdate enddate psid]
   end
 end
 
