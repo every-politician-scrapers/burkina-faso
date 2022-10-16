@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+        "name": "Burkina Faso",
+        "id": "Q965"
+    },
+    "cabinet": {
+      "id":     "Q114703163",
+      "start":  "2022-03-05",
+      "parent": "Q113648559"
+    },
+    "reference": {
+        "P854":   "https://www.presidencedufaso.bf/composition-du-gouvernement/",
+        "P1476": {
+            "text": "Composition du Gouvernement – Présidence du Faso",
+            "language": "fr"
+        }
+    },
+    "current_only": "true",
+    "lang": "fr",
+    "person_description": {
+        "en": "politician in Burkina Faso"
+    }
+}
