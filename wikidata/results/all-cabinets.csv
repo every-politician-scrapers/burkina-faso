@@ -7,4 +7,6 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q21656728,Zida Cabinet,2014-11-23,11,,,2016-01-06,11,,,Q3112243,Tiao Cabinet,Q25382694,Thiéba Cabinet,,,,
 ,Q25382694,Thiéba Cabinet,2016-01-06,11,,,2019-01-19,11,,,Q21656728,Zida Cabinet,,,,,,
 ,Q65154259,1st Dabiré Cabinet,2019-01-24,11,,,2020-12-30,11,,,,,,,,,,
-,Q111209247,2nd Dabiré Cabinet,2021-01-10,11,,,2021-12-10,11,,,,,,,,,,
+,Q111209247,2nd Dabiré Cabinet,2021-01-10,11,,,2021-12-10,11,,,,,Q114701753,Zorbo Cabinet,,,,
+,Q114701753,Zorbo Cabinet,2021-12-10,11,,,2022-01-23,11,,,Q111209247,2nd Dabiré Cabinet,Q114703163,Albert Ouédraogo Cabinet,,,,
+,Q114703163,Albert Ouédraogo Cabinet,2022-03-01,11,,,,,,,Q114701753,Zorbo Cabinet,,,,,,
