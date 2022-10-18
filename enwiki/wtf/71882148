@@ -43,6 +43,9 @@
                   "Ibrahim Traoré"
                 ]
               }
+            },
+            {
+              "text": "At age 34, Traoré is the world's youngest currently-serving world leader."
             }
           ]
         }
@@ -201,6 +204,18 @@
         }
       ],
       "references": [
+        {
+          "last": "Afp",
+          "date": "2022-10-06",
+          "title": "At 34, Burkina's new junta chief Ibrahim Traore is world's youngest leader",
+          "language": "en-IN",
+          "work": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/at-34-burkinas-new-junta-chief-ibrahim-traore-is-worlds-youngest-leader/article65977101.ece",
+          "access-date": "2022-10-17",
+          "issn": "0971-751X",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "title": "Traore officially appointed as president of Burkina Faso after coup",
           "url": "https://www.france24.com/en/africa/20221006-traore-officially-appointed-as-president-of-burkina-faso-after-coup",
@@ -530,7 +545,7 @@
       ]
     },
     {
-      "title": "Association with Russia",
+      "title": "Alleged association with Russia",
       "depth": 0,
       "paragraphs": [
         {
