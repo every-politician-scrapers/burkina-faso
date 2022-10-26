@@ -3,7 +3,9 @@
   "pageID": 71974301,
   "categories": [
     "Living people",
-    "Year of birth missing (living people)"
+    "Year of birth missing (living people)",
+    "Presidents of the National Assembly of Burkina Faso",
+    "People's Movement for Progress politicians"
   ],
   "sections": [
     {
@@ -85,10 +87,6 @@
       "title": "References",
       "depth": 0,
       "templates": [
-        {
-          "date": "October 2022",
-          "template": "more cats"
-        },
         {
           "template": "burkinafaso-politician-stub"
         }
