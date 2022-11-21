@@ -102,6 +102,16 @@
           "term_start": {
             "text": "6 October 2022"
           },
+          "primeminister": {
+            "text": "Apollinaire Joachim Kyélem de Tambèla",
+            "links": [
+              {
+                "text": "Apollinaire Joachim Kyélem de Tambèla",
+                "type": "internal",
+                "page": ":fr:Apollinaire Joachim Kyélem de Tambèla"
+              }
+            ]
+          },
           "predecessor": {
             "text": "Paul-Henri Sandaogo Damiba",
             "links": [
