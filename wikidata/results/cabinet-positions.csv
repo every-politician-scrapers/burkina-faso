@@ -1,35 +1,35 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q114702985,Minister Delegate for Communication,,,Q965,Q965,,
-Q114702976,Minister Delegate for Economy,,,Q965,Q965,,
-Q114702981,Minister Delegate for Foreign Affairs,,,Q965,Q965,,
-Q114702987,Minister for Social Cohesion and National Reconciliation,,,Q965,Q965,,
-Q114698182,Minister of Agriculture,,,Q965,Q965,,
-Q114698306,Minister of Animal and Fishing Resources,,,Q965,Q965,,
-Q114698027,Minister of Communication,,,Q965,Q965,,
-Q114698053,"Minister of Culture, Arts, and Tourism of Bukina Faso",Q108546877,"Ministry of Culture, Arts, and Tourism of Bukina Faso",,Q965,,
-Q113623389,"Minister of Digital Transition, Posts and Electronic Communications of Burkina Faso",,,Q965,Q965,,
-Q112709348,Minister of Education of Burkina Faso,,,Q965,Q965,,
-Q114698280,Minister of Energy and Mines of Bukina Faso,Q108464667,Ministry of Energy and Mines of Bukina Faso,,Q965,,
-Q114698220,Minister of Environment of Bukina Faso,Q108546883,Ministry of Environment of Bukina Faso,,Q965,,
-Q98846005,Minister of Finance of Burkina Faso,,,Q965,Q965,,
-Q18204360,Minister of Foreign Affairs of Burkina Faso,,,Q965,Q965,,
-Q114698063,Minister of Gender and Family of Bukina Faso,Q108546885,Ministry of Women of Bukina Faso,,Q965,,
-Q112030491,Minister of Health of Burkino Faso,,,Q965,,,
-Q114698210,Minister of Higher Education of Bukina Faso,Q108436073,Ministry of Higher Education of Bukina Faso,,Q965,,
-Q114698255,Minister of Industry and Commerce of Bukina Faso,Q108546882,Ministry of Industry and Commerce of Bukina Faso,,Q965,,
-Q114698286,Minister of Infrastructure of Bukina Faso,Q108435883,Ministry of Infrastructure of Bukina Faso,,Q965,,
-Q114698148,Minister of Justice of Bukina Faso,Q108435866,Ministry of Justice of Bukina Faso,,Q965,,
-Q113961433,Minister of National Defence of Bukina Faso,Q108546875,Ministry of National Defence of Bukina Faso,Q965,Q965,,
-Q114703304,Minister of National Solidarity and Humanitarian Action,,,Q965,Q965,,
-Q114702993,Minister of Prospective and Structural Reforms,,,Q965,Q965,,
-Q114698388,Minister of Public Service of Bukina Faso,Q108546884,Ministry of Public Service of Bukina Faso,,Q965,,
-Q114703309,Minister of Religious Affairs,,,Q965,Q965,,
-Q114698152,Minister of Security,,,Q965,Q965,,
-Q114698321,Minister of Sports and Recreation of Burkina Faso,Q1937204,Ministry of Sports and Recreation of Burkina Faso,,Q965,,
-Q114698173,Minister of Territorial Administration of Bukina Faso,Q108440694,Ministry of Territorial Administration of Bukina Faso,,Q965,,
-Q114698339,Minister of Transport of Bukina Faso,Q108546878,Ministry of Transport of Bukina Faso,,Q965,,
-Q114698273,Minister of Urban Planning and Housing of Bukina Faso,Q108546876,Ministry of Urban Planning and Housing of Bukina Faso,,Q965,,
-Q114698190,Minister of Water of Bukina Faso,Q108436025,Ministry of Water of Bukina Faso,,Q965,,
-Q114698133,Minister of Youth and Employment of Bukina Faso,Q108546881,Ministry of Youth and Employment of Bukina Faso,,Q965,,
-Q20995488,President of Burkina Faso,,,Q965,Q965,,
-Q28133105,Prime Minister of Burkina Faso,,,Q965,Q965,,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q114702985,Minister Delegate for Communication,,,Q965,Q965,,,1
+Q114702976,Minister Delegate for Economy,,,Q965,Q965,,,2
+Q114702981,Minister Delegate for Foreign Affairs,,,Q965,Q965,,,1
+Q114702987,Minister for Social Cohesion and National Reconciliation,,,Q965,Q965,,,2
+Q114698182,Minister of Agriculture,,,Q965,Q965,,,2
+Q114698306,Minister of Animal and Fishing Resources,,,Q965,Q965,,,2
+Q114698027,Minister of Communication,,,Q965,Q965,,,2
+Q114698053,"Minister of Culture, Arts, and Tourism of Bukina Faso",Q108546877,"Ministry of Culture, Arts, and Tourism of Bukina Faso",,Q965,,,1
+Q113623389,"Minister of Digital Transition, Posts and Electronic Communications of Burkina Faso",,,Q965,Q965,,,2
+Q112709348,Minister of Education of Burkina Faso,,,Q965,Q965,,,5
+Q114698280,Minister of Energy and Mines of Bukina Faso,Q108464667,Ministry of Energy and Mines of Bukina Faso,,Q965,,,2
+Q114698220,Minister of Environment of Bukina Faso,Q108546883,Ministry of Environment of Bukina Faso,,Q965,,,3
+Q98846005,Minister of Finance of Burkina Faso,,,Q965,Q965,,,9
+Q18204360,Minister of Foreign Affairs of Burkina Faso,,,Q965,Q965,,,23
+Q114698063,Minister of Gender and Family of Bukina Faso,Q108546885,Ministry of Women of Bukina Faso,,Q965,,,3
+Q112030491,Minister of Health of Burkino Faso,,,Q965,,,,10
+Q114698210,Minister of Higher Education of Bukina Faso,Q108436073,Ministry of Higher Education of Bukina Faso,,Q965,,,2
+Q114698255,Minister of Industry and Commerce of Bukina Faso,Q108546882,Ministry of Industry and Commerce of Bukina Faso,,Q965,,,3
+Q114698286,Minister of Infrastructure of Bukina Faso,Q108435883,Ministry of Infrastructure of Bukina Faso,,Q965,,,3
+Q114698148,Minister of Justice of Bukina Faso,Q108435866,Ministry of Justice of Bukina Faso,,Q965,,,2
+Q113961433,Minister of National Defence of Bukina Faso,Q108546875,Ministry of National Defence of Bukina Faso,Q965,Q965,,,4
+Q114703304,Minister of National Solidarity and Humanitarian Action,,,Q965,Q965,,,1
+Q114702993,Minister of Prospective and Structural Reforms,,,Q965,Q965,,,1
+Q114698388,Minister of Public Service of Bukina Faso,Q108546884,Ministry of Public Service of Bukina Faso,,Q965,,,2
+Q114703309,Minister of Religious Affairs,,,Q965,Q965,,,1
+Q114698152,Minister of Security,,,Q965,Q965,,,1
+Q114698321,Minister of Sports and Recreation of Burkina Faso,Q1937204,Ministry of Sports and Recreation of Burkina Faso,,Q965,,,3
+Q114698173,Minister of Territorial Administration of Bukina Faso,Q108440694,Ministry of Territorial Administration of Bukina Faso,,Q965,,,3
+Q114698339,Minister of Transport of Bukina Faso,Q108546878,Ministry of Transport of Bukina Faso,,Q965,,,2
+Q114698273,Minister of Urban Planning and Housing of Bukina Faso,Q108546876,Ministry of Urban Planning and Housing of Bukina Faso,,Q965,,,2
+Q114698190,Minister of Water of Bukina Faso,Q108436025,Ministry of Water of Bukina Faso,,Q965,,,1
+Q114698133,Minister of Youth and Employment of Bukina Faso,Q108546881,Ministry of Youth and Employment of Bukina Faso,,Q965,,,1
+Q20995488,President of Burkina Faso,,,Q965,Q965,,,13
+Q28133105,Prime Minister of Burkina Faso,,,Q965,Q965,,,17
