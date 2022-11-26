@@ -1,5 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q16639691,1st Yaméogo Cabinet,,,,,,,,,,,Q16639692,2nd Yaméogo Cabinet,,,,
+,Q16639691,1st Yaméogo Cabinet,1958-12-11,11,,,,,,,,,Q16639692,2nd Yaméogo Cabinet,,,,
 ,Q16639692,2nd Yaméogo Cabinet,1960-09-07,11,,,1961-05-02,11,,,Q16639691,1st Yaméogo Cabinet,,,,,,
 ,Q17629223,2nd Government of Paramanga Ernest Yonli,2006-01-06,11,,,2007-06-04,11,,,,,Q17629227,Zongo Cabinet,,,,
 ,Q17629227,Zongo Cabinet,2007-06-04,11,,,2011-04-20,11,,,Q17629223,2nd Government of Paramanga Ernest Yonli,Q3112243,Tiao Cabinet,,,,
