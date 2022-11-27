@@ -45,7 +45,19 @@
               }
             },
             {
-              "text": "At age 34, Traoré is the world's youngest currently-serving world leader."
+              "text": "At age 34, Traoré is the world's second youngest current serving state leader after Betssy Chávez of Peru.",
+              "links": [
+                {
+                  "text": "the world's second youngest current serving state leader",
+                  "type": "internal",
+                  "page": "Lists of state leaders by age",
+                  "anchor": "Youngest serving state leaders"
+                },
+                {
+                  "type": "internal",
+                  "page": "Betssy Chávez"
+                }
+              ]
             }
           ]
         }
