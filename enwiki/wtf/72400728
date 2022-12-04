@@ -1,0 +1,162 @@
+{
+  "title": "Apollinaire Joachim Kyélem de Tambèla",
+  "pageID": 72400728,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Prime Ministers of Burkina Faso",
+    "Burkinabé lawyers",
+    "Burkinabé writers",
+    "21st-century Burkinabé people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Apollinaire Joachim Kyélem de Tambèla (born 1955) is a Burkinabé lawyer, writer and statesman.",
+              "formatting": {
+                "bold": [
+                  "Apollinaire Joachim Kyélem de Tambèla"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2022",
+          "template": "refimprove"
+        },
+        {
+          "birth_year": "1955",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Apollinaire Kyelem de Tambèla (cropped).png"
+          },
+          "office": {
+            "text": "Prime Minister of Burkina Faso",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Burkina Faso"
+              }
+            ]
+          },
+          "president": {
+            "text": "Ibrahim Traoré",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Traoré"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "21 October 2022"
+          },
+          "predecessor": {
+            "text": "Albert Ouédraogo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albert Ouédraogo"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1955 (age 67)"
+          },
+          "birth_place": {
+            "text": "Ganzourgou Province, French Upper Volta (now Burkina Faso)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ganzourgou Province"
+              },
+              {
+                "type": "internal",
+                "page": "French Upper Volta"
+              },
+              {
+                "type": "internal",
+                "page": "Burkina Faso"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 21 October 2022, he was appointed Interim Prime Minister by Interim President Ibrahim Traoré.",
+              "links": [
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "List of prime ministers of Burkina Faso"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "List of heads of state of Burkina Faso"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ibrahim Traoré"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-10-24",
+          "title": "Com Kyélem de Tambèla, Burkina Faso está se voltando para a França?",
+          "url": "https://lejournaldelafrique.com/pt/com-kyelem-de-tambela-o-burkina-faso-se-volta-para-a-fran%C3%A7a/",
+          "access-date": "2022-12-02",
+          "website": "Le Journal de l'Afrique",
+          "language": "pt",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "burkinafaso-politician-stub"
+        }
+      ]
+    }
+  ]
+}
