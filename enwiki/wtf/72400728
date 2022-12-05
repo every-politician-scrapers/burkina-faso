@@ -155,6 +155,28 @@
         },
         {
           "template": "burkinafaso-politician-stub"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Albert Ouédraogo",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of Burkina Faso",
+          "years": "2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
+        },
+        {
+          "template": "bfpms"
         }
       ]
     }
