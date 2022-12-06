@@ -29,6 +29,10 @@
       ],
       "templates": [
         {
+          "description": "Prime Minister of Burkina Faso",
+          "template": "short description"
+        },
+        {
           "date": "December 2022",
           "template": "refimprove"
         },
