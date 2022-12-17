@@ -45,10 +45,10 @@
               }
             },
             {
-              "text": "At age 34, Traoré is the world's youngest current serving state leader.",
+              "text": "At age 34, Traoré is the world's youngest currently serving state leader.",
               "links": [
                 {
-                  "text": "the world's youngest current serving state leader",
+                  "text": "the world's youngest currently serving state leader",
                   "type": "internal",
                   "page": "Lists of state leaders by age",
                   "anchor": "Youngest serving state leaders"
@@ -92,7 +92,7 @@
             "text": "Ibrahim Traoré"
           },
           "image": {
-            "text": "Ibrahim Traoré, président du Burkina Faso.jpg"
+            "text": "Ibrahim Traoré (cropped).jpg"
           },
           "caption": {
             "text": "Traoré in 2022"
@@ -505,6 +505,9 @@
             },
             {
               "text": "On 6 October, he also assumed the position of Interim President as \"Head of State, Supreme Head of the Armed Forces\"."
+            },
+            {
+              "text": "He promises to hold democratic elections in July 2024."
             }
           ]
         }
@@ -558,6 +561,16 @@
           "access-date": "30 September 2022",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "2022-12-16",
+          "title": "Wagner Group: Burkina Faso anger over Russian mercenary link",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/world-africa-63998458",
+          "access-date": "2022-12-16",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -587,6 +600,15 @@
                   "text": "Russian flags",
                   "type": "internal",
                   "page": "flag of Russia"
+                }
+              ]
+            },
+            {
+              "text": "The Government of Ghana publicly alleged that Traoré began collaborating with the Wagner Group following the coup, enlisting the mercenaries against the jihadist rebels.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Government of Ghana"
                 }
               ]
             }
